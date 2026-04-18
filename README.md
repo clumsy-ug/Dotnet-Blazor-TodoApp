@@ -1,0 +1,2 @@
+- .NET 10/C#14
+- Blazor Web App / Interactivity: Server
