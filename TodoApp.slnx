@@ -1,2 +1,3 @@
 <Solution>
+  <Project Path="TodoApp.Web/TodoApp.Web.csproj" />
 </Solution>
